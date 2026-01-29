@@ -1,0 +1,5 @@
+youtube.com 34.7.4.22
+discord.gg 2.76.32.2
+neetcode.io 98.23.42.1
+psu.edu 3.14.15.9
+teamblind.com 74.12.97.6

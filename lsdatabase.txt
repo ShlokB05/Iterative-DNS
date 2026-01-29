@@ -1,0 +1,6 @@
+com
+edu
+localhost
+localhost
+localhost
+localhost
